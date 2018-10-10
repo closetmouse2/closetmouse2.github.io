@@ -1,0 +1,117 @@
+html {
+  background-color: #fcfdff;
+  color: #000d1a;
+}
+
+/*home button*/
+.image1 {
+  width: 100px;
+  border-radius: 50%;
+  box-shadow: 0px 4px 6px 2px lightgrey;
+
+  margin-left: 3%;
+  margin-top: 3%;
+}
+
+.home_button a {
+  text-decoration: none;
+}
+
+/*Opening Title*/
+.title {
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  font-size: 50px;
+  font-family: sans-serif;
+}
+
+/*Opening Text*/
+.opening_text{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+/*Social Media Image Links*/
+.img_links {
+  display: inline-block;
+  margin-left: 43%;
+}
+
+.img_links ul {
+  list-style: none;
+  margin-top: 50px;
+  padding-left: 0px;
+}
+
+.img_links li {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.img_links img {
+  width: 42px;
+}
+
+/*Social Media Regular Links*/
+.reg_links {
+  float: right;
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 43%;
+}
+
+.reg_links ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.reg_links li {
+  padding-top: 60px;
+  padding-bottom: 10px;
+}
+
+.reg_links a {
+  text-decoration: none;
+  border-radius: 3%;
+  border: #008ae6 2px solid;
+  color: white;
+  background-color: #008ae6;
+  box-shadow: 0px 4px 6px 2px lightgrey;
+  padding: 10px 23px;
+}
+
+.reg_links a:hover {
+  border: #e60000 2px solid;
+  color: white;
+  background-color: #e60000;
+  box-shadow: 0px 4px 8px 4px lightgrey;
+}
+
+/*Email Section*/
+.email{
+  margin-top: 50px;
+  height: 100%;
+}
+
+.email_heading {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.emailtxt {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+  font-size: 20px;
+  font-family: sans-serif;
+}

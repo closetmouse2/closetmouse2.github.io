@@ -1,5 +1,6 @@
 html {
   background-color: #fcfdff;
+  color: #000d1a;
 }
 
 /*Intro Title*/
@@ -8,8 +9,6 @@ html {
   margin-top: 50px;
   font-size: 50px;
   font-family: sans-serif;
-
-  color: #000d1a;
 
   min-width: 250px;
 }
@@ -23,8 +22,6 @@ html {
 
   font-size: 20px;
   font-family: sans-serif;
-
-  color: #000d1a;
 }
 
 /*profile Image*/
