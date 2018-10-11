@@ -4,17 +4,29 @@ html {
 }
 
 /*home button*/
-.image1 {
-  width: 100px;
-  border-radius: 50%;
-  box-shadow: 0px 4px 6px 2px lightgrey;
-
-  margin-left: 3%;
-  margin-top: 3%;
+.home_button {
+  margin-top: 40px;
+  margin-left: 30px;
 }
 
 .home_button a {
   text-decoration: none;
+  font-family: sans-serif;
+
+  padding: 10px 20px;
+  border-radius: 3%;
+  border: #e60000 2px solid;
+  color: white;
+
+  background-color: #e60000;
+  box-shadow: 0px 4px 6px 2px lightgrey;
+}
+
+.home_button a:hover {
+  border: #008ae6 2px solid;
+  color: white;
+  background-color: #008ae6;
+  box-shadow: 0px 4px 8px 4px lightgrey;
 }
 
 /*Opening Title*/
@@ -39,7 +51,7 @@ html {
 /*Social Media Image Links*/
 .img_links {
   display: inline-block;
-  margin-left: 43%;
+  margin-left: 44%;
 }
 
 .img_links ul {
@@ -62,7 +74,8 @@ html {
   float: right;
   display: inline-block;
   text-decoration: none;
-  margin-right: 43%;
+  font-family: sans-serif;
+  margin-right: 42%;
 }
 
 .reg_links ul {
