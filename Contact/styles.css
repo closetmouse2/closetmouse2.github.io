@@ -15,17 +15,17 @@ html {
 
   padding: 10px 20px;
   border-radius: 3%;
-  border: #e60000 2px solid;
+  border: #ff6666 2px solid;
   color: white;
 
-  background-color: #e60000;
+  background-color: #ff6666;
   box-shadow: 0px 4px 6px 2px lightgrey;
 }
 
 .home_button a:hover {
-  border: #008ae6 2px solid;
+  border: #66a3ff 2px solid;
   color: white;
-  background-color: #008ae6;
+  background-color: #66a3ff;
   box-shadow: 0px 4px 8px 4px lightgrey;
 }
 
@@ -91,17 +91,17 @@ html {
 .reg_links a {
   text-decoration: none;
   border-radius: 3%;
-  border: #008ae6 2px solid;
+  border: #66a3ff 2px solid;
   color: white;
-  background-color: #008ae6;
+  background-color: #66a3ff;
   box-shadow: 0px 4px 6px 2px lightgrey;
   padding: 10px 23px;
 }
 
 .reg_links a:hover {
-  border: #e60000 2px solid;
+  border: #ff6666 2px solid;
   color: white;
-  background-color: #e60000;
+  background-color: #ff6666;
   box-shadow: 0px 4px 8px 4px lightgrey;
 }
 
